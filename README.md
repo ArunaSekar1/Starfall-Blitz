@@ -75,7 +75,7 @@ If you get hit by a star, the game will display a "You Lost!" message and wait f
 ## Screenshots
 ![Title screen](https://github.com/ArunaSekar1/Starfall-Blitz/blob/main/screenshots/Screenshot%202025-01-07%20133756.png)
 
-![Play screen](https://github.com/ArunaSekar1/Starfall-Blitz/blob/main/screenshots/Screenshot%202025-01-07%20133756.png)
+
 
 
 
