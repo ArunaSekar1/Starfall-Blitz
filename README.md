@@ -72,7 +72,10 @@ In **Starfall Blitz**, you control a player character at the bottom of the scree
 ## **Game Over**
 
 If you get hit by a star, the game will display a "You Lost!" message and wait for 4 seconds before closing.
+## Screenshots
+![Title screen](https://github.com/ArunaSekar1/Starfall-Blitz/blob/main/screenshots/Screenshot%202025-01-07%20133756.png)
 
+![Play screen](https://github.com/ArunaSekar1/Starfall-Blitz/blob/main/screenshots/Screenshot%202025-01-07%20133756.png)
 
 
 
